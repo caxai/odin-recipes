@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+div p,
+div ul,
+div ol {
+    font-size: 18px;
+}

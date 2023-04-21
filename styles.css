@@ -1,0 +1,17 @@
+.bd {
+    background-color: lightpink;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 5px;    
+}
+
+ul li {
+    color: darkblue;
+    font-size: 20px;
+    margin: 5px;
+}
+
